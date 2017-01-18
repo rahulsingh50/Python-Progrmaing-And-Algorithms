@@ -1,0 +1,1 @@
+This repo is basically various python programing concepts ,data structure and algorithms.

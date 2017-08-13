@@ -11,3 +11,7 @@ dq.appendleft('z')
 dq.extend('efg')
 dq.extendleft('yxw')
 print(dq)
+
+# loop
+for i in dq:
+    print(i)

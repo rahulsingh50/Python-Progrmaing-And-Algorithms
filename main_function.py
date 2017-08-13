@@ -2,7 +2,6 @@
 
 # file two.py
 import used_function
-
 print("top-level in main_function.py")
 used_function.func()
 

@@ -12,7 +12,7 @@ message = '''
 
 This is about data type  and 
 String Format
-
+++
 '''
 
 course =  "Python Programming"
